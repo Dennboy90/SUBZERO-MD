@@ -7,9 +7,9 @@
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put your Subzero session-id here.",
+      "description": "SUBZERO-MD~jq4SJcPYN5dnvJu6BtM3",
       "required": true,
-      "value": ""
+      "value": "true"
     },
     "PREFIX": {
       "description": "paste your bot prefix note! Don't apply null prefix.",
@@ -20,7 +20,7 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "263719646303"
+      "value": "27620206611"
     },
     "BOT_NAME": {
       "description": "Type here the bot name.",
